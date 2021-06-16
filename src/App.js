@@ -12,7 +12,7 @@ const App = () => {
     {
       id: 'e3',
       title: 'Car Insurance',
-      amount: 294.67,
+      amount: 291.67,
       date: new Date(2021, 2, 28),
     },
     {
