@@ -15,3 +15,6 @@
  feature_5: Various CSS techniques used on a basic todo list.
  
  feature_6: Introduction to ref, wrapper and portals.
+ 
+ feature_7: Introduction to useEffect hook
+ 
