@@ -18,3 +18,4 @@
  
  feature_7: Introduction to useEffect hook
  
+ feature_8: Introduction to useReducers and context API
