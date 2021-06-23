@@ -16,6 +16,10 @@
  
  feature_6: Introduction to ref, wrapper and portals.
  
- feature_7: Introduction to useEffect hook
+ feature_7: Introduction to useEffect hook.
  
- feature_8: Introduction to useReducers and context API
+ feature_8: Introduction to useReducers and context API.
+ 
+ feature-9: Concepts on how react runs behind the scenes by a project.
+ 
+ feature-10: Introduction to class based components.
